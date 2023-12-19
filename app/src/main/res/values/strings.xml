@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="spinnerOperator">
+        <item>+</item>
+        <item>-</item>
+        <item>X</item>
+        <item>:</item>
+    </string-array>
+    <string-array name="spinnerKelas">
+        <item>X</item>
+        <item>XI</item>
+        <item>XII</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
